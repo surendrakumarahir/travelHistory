@@ -1,0 +1,18 @@
+{
+    "peer":{
+        "peerURL": "grpc://localhost:7051",
+        "containerName":"peer0.org1.travelconsulting.com"
+    },
+    "ordererURL": "grpc://localhost:7050",
+    "channelName": "travelconsulting",
+    "chaincodeName": "travel",
+    "ca": {
+       "caCredentials":{ 
+        "userName": "admin",
+        "password": "adminpw"
+       },
+       "caURL":"http://localhost:7054",
+       "containerName": "ca.travelconsulting.com",
+       "tlsPath":"peerOrganizations/org1.travelconsulting.com/tlsca/tlsca.org1.travelconsulting.com-cert.pem"
+    }
+}

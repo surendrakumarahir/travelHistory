@@ -1,0 +1,27 @@
+{
+  "MAIL": {
+    "SERVICE": {
+      "HOST": "",
+      "PORT": "",
+      "USERID": "",
+      "PASSWORD": ""
+    },
+    "SENDER": ""
+  },
+  "ADMIN": {
+    "EMAIL": ""
+  },
+  "SALT": {
+    "ROUNDS": 10
+  },
+  "USER_ROLE": {
+    "ADMIN": "admin",
+    "USER": "user"
+  },
+  "ONE_SIGNAL": {
+    "ANDROID": {
+      "APP_ID": "d3e7f566-e788-433b-b88f-d3cc130ba8e8",
+      "API_KEY": "MWVlMGNhNDMtN2RmOC00YmVmLTg1MTUtOWJkYzM2MDVkNGQ4"
+    }
+  }
+}

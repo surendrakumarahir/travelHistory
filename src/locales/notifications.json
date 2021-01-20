@@ -1,0 +1,14 @@
+{
+  "PUSH": {
+    "TITLE": {
+      "RECORD_UPDATED": "Record updated",
+      "CERTIFICATE_UPDATED": "Certificate updated"
+    },
+    "BODY": {
+      "RECORD_APPROVED": "You travel record has been approved",
+      "CERTIFICATE_APPROVED": "You medical certificate has been approved",
+      "CERTIFICATE_REJECTED": "You medical certificate has been rejected",
+      "RECORD_REJECTED": "You travel record has been rejected"
+    }
+  }
+}
